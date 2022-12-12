@@ -1,0 +1,4 @@
+[submodule "much-german-translation"]
+	path = much-german-translation
+	url = git@github.com:much-GmbH/much-german-translation.git
+	branch = 15.0
